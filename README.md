@@ -63,8 +63,6 @@ A clean company website with **Home**, **About**, **Products**, **Services**, an
 
 **Business Website** is a multi-page Persian company website designed as a complete front-end template for introducing a business, showing products, presenting services, and collecting contact messages.
 
-The project uses semantic HTML pages, a single custom stylesheet, local Persian fonts, Bootstrap Icons, and a small script for the mobile menu. There is no backend and no extra framework. The site runs from static files and can be hosted on GitHub Pages.
-
 The copy on the pages is placeholder business text, so the layout can be reused for a real shop or company by replacing titles, prices, images, and contact details.
 
 > **Tagline:** *A responsive multi-page Persian business website with home, about, products, services, and contact pages, built with HTML, CSS, and JavaScript.*
