@@ -5,7 +5,7 @@
 
 ### A Responsive Multi-Page Persian Business Website
 
-A clean company website with **Home**, **About**, **Products**, **Services**, and **Contact** pages — built with HTML, CSS, and a small amount of JavaScript, fully right-to-left, and ready to open in the browser.
+A clean company website with **Home**, **About**, **Products**, **Services**, and **Contact** pages — built with HTML, CSS, and JavaScript, fully right-to-left, and ready to open in the browser.
 
 <br>
 
@@ -67,7 +67,7 @@ The project uses semantic HTML pages, a single custom stylesheet, local Persian 
 
 The copy on the pages is placeholder business text, so the layout can be reused for a real shop or company by replacing titles, prices, images, and contact details.
 
-> **Tagline:** *A responsive multi-page Persian business website with home, about, products, services, and contact pages, built with HTML and CSS.*
+> **Tagline:** *A responsive multi-page Persian business website with home, about, products, services, and contact pages, built with HTML, CSS, and JavaScript.*
 
 ---
 
