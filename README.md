@@ -357,12 +357,4 @@ If you found this website useful, please consider:
 
 ## Designed & developed with ❤️ for the developer community of Iran and the world
 
-<br>
-
-## 👨‍💻 **Sadra Hatami**
-
-### Developer • Software Engineer • Creator
-
-⭐ If you like this project, don't forget to star the repository!
-
 </div>
